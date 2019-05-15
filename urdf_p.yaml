@@ -1,0 +1,18 @@
+i1:
+ joint_xyz: 0.0 0 10.0
+ joint_rpy: 1.5707 0 0
+ link_x_size: 0.0
+ link_xyz: 0.0 0 0
+ link_rpy: 0 0 0
+i3:
+ joint_xyz: 0.0 0 0.0
+ joint_rpy: 0.0 0 0
+ link_x_size: 0.0
+ link_xyz: 0.0 0 0
+ link_rpy: 0 0 0
+i2:
+ joint_xyz: 0.0 0 0.0
+ joint_rpy: 0.0 0 0
+ link_x_size: 0.0
+ link_xyz: 0.0 0 0
+ link_rpy: 0 0 0
